@@ -45,8 +45,8 @@ The application follows a coordinator-agent pattern. The Streamlit UI acts as th
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd < repo_name >
+git clone https://github.com/harishmogili21/agentic_rag_chatbot.git
+cd agentic_rag_chatbot
 ```
 
 ### 2. Create a Virtual Environment
